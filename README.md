@@ -1,5 +1,5 @@
 # FUNDAMENTOS-E-ARQUITETURA-DE-COMPUTADORES
-Material de Avalliação Prática - Disciplina FUNDAMENTOS E ARQUITETURA DE COMPUTADORES - Engenharia de Software  04/2021
+Material de Avaliação Prática - Disciplina FUNDAMENTOS E ARQUITETURA DE COMPUTADORES - Engenharia de Software  04/2021
 #
 Devido à escassez de profissionais que dominem os conceitos básicos de computação digital, a mineradora Miner Barro entrou em contato com a Unicesumar à procura de estagiários para auxiliar na construção e manutenção de alguns circuitos lógicos. Você se candidatou à vaga disponibilizada, informando em seu currículo que você domina a construção de circuitos com portas lógicas.
 
